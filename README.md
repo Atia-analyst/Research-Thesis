@@ -2,6 +2,10 @@
 
 **Reseaech Problem**
 How does renewable energy consumption influence sustainable development, and what is the moderating role of financial development in promoting high human development with ecological sustainability?
+ Countries with high CO2 emissions and material footprint currently enjoy very high Human Development scores. This presents a critical challenge: what strategies can low human development countries embrace to attain high human development without deepening environmental degradation? 
+ <img width="829" height="594" alt="image" src="https://github.com/user-attachments/assets/4f751166-7c06-4f45-ac70-1421656bd58d" />
+ <img width="829" height="594" alt="image" src="https://github.com/user-attachments/assets/bb0a76ae-3d98-4055-b8d7-6d0b00ad15bc" />
+
 
 **1.3	Objectives of Study**
 The followings are objective of this underlying study:
@@ -23,3 +27,8 @@ Methdology
 <img width="865" height="602" alt="image" src="https://github.com/user-attachments/assets/06388b0a-bb1f-47ba-8e5f-b139f8fa3e20" />
 
 
+Results:
+
+<img width="872" height="452" alt="image" src="https://github.com/user-attachments/assets/3f2a0c5c-a2fa-4d03-8364-543f91cd16ef" />
+
+Financial development enhances the sustainable development in LHD-SEI. In addition, financial development enhances the nexus between renewable energy consumption and sustainable development in LHD-SEI 
