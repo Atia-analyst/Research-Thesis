@@ -23,6 +23,8 @@ H2: Financial development enhances the impact of renewable energy on sustainable
 <img width="641" height="191" alt="image" src="https://github.com/user-attachments/assets/8dcd436c-1ef8-489d-81a0-365b8607f195" />
 
 **Methdology**
+
+
 <img width="865" height="602" alt="image" src="https://github.com/user-attachments/assets/06388b0a-bb1f-47ba-8e5f-b139f8fa3e20" />
 
 
