@@ -28,7 +28,14 @@ Methdology
 
 
 Results:
-
+**Role of Financial Development in Energy- Sustainability Nexus in HIGH HUMAN DEVELOPMENT-Unsustainable Ecological Impact 
+**
 <img width="872" height="452" alt="image" src="https://github.com/user-attachments/assets/3f2a0c5c-a2fa-4d03-8364-543f91cd16ef" />
 
-Financial development enhances the sustainable development in LHD-SEI. In addition, financial development enhances the nexus between renewable energy consumption and sustainable development in LHD-SEI 
+ Role of Financial Development in Energy- Sustainability Nexus in LOW HUMAN DEVELOPMENT-sustainable Ecological Impact 
+<img width="951" height="461" alt="image" src="https://github.com/user-attachments/assets/e8a7eb38-ff3f-418b-8fac-4ad430b54b12" />
+
+Role of Financial Development in Energy- Sustainability Nexus in LOW HUMAN DEVELOPMENT-Unsustainable Ecological Impact
+<img width="571" height="300" alt="image" src="https://github.com/user-attachments/assets/d454a67b-346e-4187-9e3a-06348b3772a4" />
+
+The result revealed that renewable energy consumption stimuli sustainable development in LHD-SEI, LHD-UEI.and VHHD-UEI. Financial development enhances the sustainable development in LHD-SEI. While financial development reduces the sustainable development in LHD-UEI and VHHD-UEI. In addition, financial development enhances the nexus between renewable energy consumption and sustainable development in LHD-SEI and VHHD-UEI. On the other hand, financial development reduces the connection between renewable energy consumption and sustainable development in LHD-UEI. 
