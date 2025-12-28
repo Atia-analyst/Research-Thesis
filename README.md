@@ -22,12 +22,12 @@ H2: Financial development enhances the impact of renewable energy on sustainable
 <img width="398" height="38" alt="image" src="https://github.com/user-attachments/assets/daa22676-906b-4a89-bc80-630c68e4ba72" />
 <img width="641" height="191" alt="image" src="https://github.com/user-attachments/assets/8dcd436c-1ef8-489d-81a0-365b8607f195" />
 
-Methdology
-
+**Methdology**
 <img width="865" height="602" alt="image" src="https://github.com/user-attachments/assets/06388b0a-bb1f-47ba-8e5f-b139f8fa3e20" />
 
 
-Results:
+**Results:**
+
 **Role of Financial Development in Energy- Sustainability Nexus in HIGH HUMAN DEVELOPMENT-Unsustainable Ecological Impact 
 **
 <img width="872" height="452" alt="image" src="https://github.com/user-attachments/assets/3f2a0c5c-a2fa-4d03-8364-543f91cd16ef" />
@@ -36,6 +36,11 @@ Results:
 <img width="951" height="461" alt="image" src="https://github.com/user-attachments/assets/e8a7eb38-ff3f-418b-8fac-4ad430b54b12" />
 
 Role of Financial Development in Energy- Sustainability Nexus in LOW HUMAN DEVELOPMENT-Unsustainable Ecological Impact
-<img width="571" height="300" alt="image" src="https://github.com/user-attachments/assets/d454a67b-346e-4187-9e3a-06348b3772a4" />
+<img width="872" height="452" alt="image" src="https://github.com/user-attachments/assets/97709e5b-16e0-42ae-97fa-b304876db144" />
+
 
 The result revealed that renewable energy consumption stimuli sustainable development in LHD-SEI, LHD-UEI.and VHHD-UEI. Financial development enhances the sustainable development in LHD-SEI. While financial development reduces the sustainable development in LHD-UEI and VHHD-UEI. In addition, financial development enhances the nexus between renewable energy consumption and sustainable development in LHD-SEI and VHHD-UEI. On the other hand, financial development reduces the connection between renewable energy consumption and sustainable development in LHD-UEI. 
+
+**Recommendation:**
+1.Policies should be designed that enhance renewable energy consumption
+2.Financial development should be used in a way that spurs renewable energy-sustainable development nexus and sustainable development
