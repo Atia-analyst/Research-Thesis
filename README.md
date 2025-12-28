@@ -13,4 +13,6 @@ The followings are hypothesis of this study:
 H1: Renewable energy has a positive impact on sustainable development.
 H2: Financial development enhances the impact of renewable energy on sustainable development.
 
+**4.3	Model Specification**
 
+<img width="398" height="38" alt="image" src="https://github.com/user-attachments/assets/daa22676-906b-4a89-bc80-630c68e4ba72" />
